@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lannaeisenecaet00leogoog_0010.png"; bbox 0 0 2648 4478; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 435 1663 809 1919">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 435 1663 809 1919">
+     <span class='ocr_line' id='line_1_1' title="bbox 436 1663 809 1732; baseline -0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 436 1663 626 1731; x_wconf 77' lang='lat' dir='ltr'><strong>GEORGIO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 647 1665 809 1732; x_wconf 81' lang='lat' dir='ltr'><strong>KAIBEL</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 435 1850 804 1919; baseline -0.003 -2"><span class='ocrx_word' id='word_1_3' title='bbox 435 1850 605 1918; x_wconf 80' lang='lat' dir='ltr'>OAROLO</span> <span class='ocrx_word' id='word_1_4' title='bbox 631 1851 804 1919; x_wconf 83' lang='lat' dir='ltr'>ROBERT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 108 2036 1115 2139">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 108 2036 1115 2139">
+     <span class='ocr_line' id='line_1_3' title="bbox 108 2036 1115 2139; baseline -0.002 -36"><span class='ocrx_word' id='word_1_5' title='bbox 108 2036 424 2139; x_wconf 65' lang='lat' dir='ltr'><strong>VDALRIGODE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 445 2037 1115 2105; x_wconf 66' lang='lat' dir='ltr'><strong>wffiAMOWTz-MOELLENDORFF</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 549 2254 674 2308">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 549 2254 674 2308">
+     <span class='ocr_line' id='line_1_4' title="bbox 549 2254 674 2308; baseline 0.016 -3"><span class='ocrx_word' id='word_1_7' title='bbox 549 2284 553 2289; x_wconf 92' lang='lat'>·</span> <span class='ocrx_word' id='word_1_8' title='bbox 566 2254 674 2308; x_wconf 82' lang='lat' dir='ltr'>AMIGIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 584 2466 654 2516">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 584 2466 654 2516">
+     <span class='ocr_line' id='line_1_5' title="bbox 584 2466 654 2516; baseline -0.014 0"><span class='ocrx_word' id='word_1_9' title='bbox 584 2466 610 2516; x_wconf 88' lang='grc'><strong>1).</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 627 2466 654 2516; x_wconf 88' lang='grc'><strong>1).</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1328 4478">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1328 4478">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1328 4478; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1328 4478; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
